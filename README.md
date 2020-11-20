@@ -16,10 +16,10 @@ Repository Contents
 Documentation
 ------------
 
-*[Schematic](https://cdn.sparkfun.com/assets/6/c/e/8/b/Qwiic_BMP388_Pressure_Sensor.pdf)
-*[Qwiic Resource Page](https://www.sparkfun.com/qwiic)
-*[Arduino Library](https://github.com/MartinL1/BMP388_DEV)
-*[GitHub Hardware Repo](https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor)
+* **[Schematic](https://cdn.sparkfun.com/assets/6/c/e/8/b/Qwiic_BMP388_Pressure_Sensor.pdf)
+* **[Qwiic Resource Page](https://www.sparkfun.com/qwiic)
+* **[Arduino Library](https://github.com/MartinL1/BMP388_DEV)
+* **[GitHub Hardware Repo](https://github.com/sparkfunX/Qwiic_BMP388_Pressure_Sensor)
 
 License Information
 -------------------
